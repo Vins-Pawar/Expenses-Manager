@@ -1,3 +1,4 @@
+//this code is not used in project...
 const { loginUser } = require("../controllers/user.controller");
 const { db } = require("../models/index");
 
