@@ -1,4 +1,5 @@
 # Expenses Manager
+  created API's for managing daily expenses of a user so they will manage their money more efficiently....!
 
 ## Apis for 
   1. Users
